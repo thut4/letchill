@@ -1,21 +1,26 @@
-*{
+* {
     font-family: Arial, Helvetica, sans-serif;
 }
-body{
-    background-color: rgb(218, 218,218);
-}
-p{
-    font-size: large;
-}
-hr{
-    background-color: brown;
-}
-.fa-facebook-square{
-    font-size: 3.5em;
-    color:#3b5998;
-}
-.fas{
-    font-size: 2rem;
-    color:#3b5978;
+
+body {
+    background-color: rgb(218, 218, 218);
 }
 
+.text-justify,
+.text-uppercass {
+    font-size: large;
+}
+
+hr {
+    background-color: brown;
+}
+
+.fa-facebook-square {
+    font-size: 3.5em;
+    color: #3b5998;
+}
+
+.fas {
+    font-size: 2rem;
+    color: #3b5978;
+}
